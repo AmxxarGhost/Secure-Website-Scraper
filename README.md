@@ -25,11 +25,5 @@ A Python-based web scraper that extracts structured data (metadata, headings, pa
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 - [lxml](https://pypi.org/project/lxml/) (for faster parsing, optional)
 
-## 🚀 Installation & Usage
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/AmxxarGhost/secure-website-scraper.git
-cd secure-webscraper
 
 
